@@ -1,5 +1,5 @@
-# YouTube Finder
-Find youtube videos by using input query
+# YouTube Video Finder
+Find youtube videos by using input query without using youtube data api
 
 This code was **modified** from https://github.com/hansputera/youtube-finder and https://github.com/alexmercerind/youtube-search-python.git.
 
